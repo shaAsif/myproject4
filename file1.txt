@@ -1,1 +1,2 @@
 Hello GitHub
+Adding a third line to file1
