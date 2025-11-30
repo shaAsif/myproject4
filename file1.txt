@@ -1,3 +1,4 @@
 Hello Git
 More content
 More work on feature-1
+User3 adds this line
