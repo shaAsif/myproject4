@@ -1,2 +1,1 @@
-Hello GitHub
-Adding a third line to file1
+Hello Git
